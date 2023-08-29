@@ -1,0 +1,53 @@
+{
+    "mobileBottomRow": 5,
+    "widgetName": "modalTitle",
+    "displayName": "Text",
+    "iconSVG": "https://appcdn.appsmith.com/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
+    "searchTags": [
+        "typography",
+        "paragraph",
+        "label"
+    ],
+    "topRow": 0,
+    "bottomRow": 4,
+    "type": "TEXT_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 41,
+    "animateLoading": true,
+    "overflow": "NONE",
+    "fontFamily": "Open Sans",
+    "dynamicTriggerPathList": [],
+    "leftColumn": 1,
+    "dynamicBindingPathList": [
+        {"key": "truncateButtonColor"},
+        {"key": "borderRadius"}
+    ],
+    "shouldTruncate": false,
+    "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+    "text": "XÁC NHẬN BÀN GIAO",
+    "key": "mob2s6tn3c",
+    "isDeprecated": false,
+    "rightColumn": 38,
+    "textAlign": "LEFT",
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "fj0gwi4utt",
+    "minWidth": 450,
+    "isVisible": true,
+    "fontStyle": "BOLD",
+    "textColor": "#231F20",
+    "version": 1,
+    "parentId": "vkq7o3zwru",
+    "tags": [
+        "Suggested",
+        "Content"
+    ],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 1,
+    "responsiveBehavior": "fill",
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 1,
+    "maxDynamicHeight": 9000,
+    "fontSize": "1.25rem",
+    "minDynamicHeight": 4
+}

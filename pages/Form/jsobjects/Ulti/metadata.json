@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "Ulti",
+    "pageId": "Form",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Form_Ulti",
+  "deleted": false,
+  "gitSyncId": "64cbf2fee117701db5e9faad_64cc067fe1f91323174ca0bc"
+}
