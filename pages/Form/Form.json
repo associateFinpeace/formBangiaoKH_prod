@@ -29,17 +29,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Form_Ulti.setUp",
-              "name": "Ulti.setUp",
-              "collectionId": "Form_Ulti",
-              "confirmBeforeExecute": false,
-              "pluginType": "JS",
-              "jsonPathKeys": [
-                "function () {\n  storeValue(\"submitType\", \"add new\");\n  storeValue(\"tabName\", \"Form\");\n}"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
               "id": "Form_pic",
               "name": "pic",
               "confirmBeforeExecute": false,
@@ -65,6 +54,17 @@
             }
           ],
           [
+            {
+              "id": "Form_Ulti.setUp",
+              "name": "Ulti.setUp",
+              "collectionId": "Form_Ulti",
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [
+                "function () {\n  storeValue(\"submitType\", \"add new\");\n  storeValue(\"tabName\", \"Form\");\n}"
+              ],
+              "timeoutInMillisecond": 10000
+            },
             {
               "id": "Form_product_line",
               "name": "product_line",
