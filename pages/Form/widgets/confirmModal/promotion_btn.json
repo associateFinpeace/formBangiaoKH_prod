@@ -51,7 +51,7 @@
     "disabledWhenInvalid": false,
     "borderRadius": "0.375rem",
     "mobileLeftColumn": 47,
-    "originalBottomRow": 18,
+    "originalBottomRow": 22,
     "buttonVariant": "SECONDARY",
     "placement": "CENTER"
 }
